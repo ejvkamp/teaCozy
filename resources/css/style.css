@@ -65,7 +65,7 @@ nav {
   width: 100%;
 }
 
-/* Featured Section */
+/* Featured */
 
 .featured {
   display: block;
@@ -90,7 +90,7 @@ nav {
   padding: 5px;
 }
 
-/* Locations Section */
+/* Locations */
 
 .locations {
   height: 500px;
@@ -117,7 +117,11 @@ nav {
   opacity: 1;
 }
 
-/* */
+/* Contact */
+.contact {
+  display: block;
+  height: 200px;
+  justify-content: center;
+}
 
-
-/* */
+/* Footer */
