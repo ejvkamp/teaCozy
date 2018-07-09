@@ -20,6 +20,7 @@ header {
   border-bottom: 1px solid seashell;
   z-index: 5;
   align-items: center;
+  background-color: black;
 }
 
 .logo img {
@@ -40,7 +41,7 @@ nav {
 
 /* Main */
 .main {
-    padding-top: 69px;
+    padding-top: 70px;
     width: 1200px;
     margin: auto;
 }
@@ -63,6 +64,37 @@ nav {
   background-color: black;
   width: 100%;
 }
+
+/* Featured Section */
+
+.featured {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item img {
+  display: block;
+  height: 200px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.item {
+  padding: 5px;
+}
+
+/* */
+
+
+
+/* */
 
 
 /* */
