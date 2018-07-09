@@ -90,9 +90,32 @@ nav {
   padding: 5px;
 }
 
-/* */
+/* Locations Section */
 
+.locations {
+  height: 500px;
+  padding-top: 50px;
+  margin-top: 30px;
+  background-image: url("../images/img-locations-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
+.addresses {
+  padding-top: 15px;
+}
+
+.address {
+  width: 300px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 20px;
+  background-color: black;
+  opacity: 1;
+}
 
 /* */
 
