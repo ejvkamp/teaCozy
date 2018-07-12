@@ -76,14 +76,14 @@ nav {
 .items {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .item img {
   display: block;
   height: 200px;
   width: 300px;
-  padding-bottom: 10px;
+  padding: 10px;
 }
 
 .item {
